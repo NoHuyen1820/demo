@@ -1,8 +1,11 @@
 {
-  "name": "gk-cong-nghe-moi",
+  "name": "demo",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author":  {
+    "name": "Nguyen Thi Ngoc Huyen",
+    "email": "ngochuyen17011999@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
